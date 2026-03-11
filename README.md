@@ -20,7 +20,7 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrainGalaxy&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoonRooter&theme=tokyonight"
     width="900"
   />
 </p>
