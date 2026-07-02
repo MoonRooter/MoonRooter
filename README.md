@@ -2,11 +2,11 @@
 
 <p align="center">
   <b>
-    I am a Computer Science student with a strong curiosity for technology and innovation.
+    💻 Computer Science student passionate about Cybersecurity and Ethical Hacking.
   </b>
   <br/><br/>
   <i>
-    I enjoy exploring new ideas, learning continuously, and challenging myself to think logically and creatively.
+    🚀 Currently learning through hands-on labs, CTFs, and real-world projects while continuously improving my technical skills and exploring new technologies.
   </i>
 </p>
 
