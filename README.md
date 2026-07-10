@@ -22,7 +22,7 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&langs_count=8"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=MoonRooter&theme=radical&hide_border=true"
       
   />
 </p>
