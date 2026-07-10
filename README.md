@@ -22,7 +22,7 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img
-  src="![Activity](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true)"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true"
       
   />
 </p>
