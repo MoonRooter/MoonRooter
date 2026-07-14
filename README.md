@@ -1,50 +1,137 @@
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
-<h2 align="center">💫 About Me</h2>
+<div align="center">
+
+# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=00F72F&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Abhishek;Computer+Science+Student;Cyber+Security+Learner;Ethical+Hacking+Enthusiast;AI+Security+Explorer;Always+Learning+Something+New..." alt="Typing SVG"/>
+
+</div>
+
+---
+
+
+
+# 🛡 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JhdDJwcnJlYmR6NjE2eWhzZ2VzMnJxZmZ2MnF3YzQ2aGlmM3Q2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif">
+
+- 🎓 Computer Science Student
+- 🛡 Learning Cyber Security
+- 💀 Interested in Ethical Hacking
+- 🤖 Exploring AI Security
+- 🔐 Practicing Security Skills on TryHackMe
+<br clear="right"/>
+
+---
+
+
+# 💻 Development Environment
+
+```yaml
+Frontend:
+  - HTML5
+  - CSS3
+
+Programming:
+  - Python
+  - C
+
+Cyber Security:
+  - Linux
+  - Bash(Learning)
+
+Tools:
+  - Git
+  - GitHub
+  - VS Code
+```
 
 <p align="center">
-  <b>
-    💻 Computer Science student passionate about Cybersecurity and Ethical Hacking.
-  </b>
-  <br/><br/>
-  <i>
-    🚀 Currently learning through hands-on labs, CTFs, and real-world projects while continuously improving my technical skills and exploring new technologies.
-  </i>
+
+<img src="https://skillicons.dev/icons?i=html,css,python,c,linux,bash,git,github,vscode&theme=dark"/>
+
 </p>
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/moon.rooter/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-94026a380/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/s5017151012141) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCYu17OtmKveNjkwT2dZs8mA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishek.in9900@gmail.com) 
+# 🎯 Current Goals
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-<p align="center">
-  <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=MoonRooter&theme=radical&hide_border=true"
-      
-  />
-</p>
+```text
+ Learn Ethical Hacking
+
+ Master Linux
+
+ Learn AI Security
+
+ Build Security Tools
+
+ Contribute to Open Source
+
+ Become a Cyber Security Engineer
+```
+---
+
+# 🚀 GitHub Journey
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MoonRooter&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  🌌 Code Beyond Imagination
+# 📈 GitHub Activity
 
-<!--
-**MoonRooter/MoonRooter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![Abhishek github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MoonRooter&theme=tokyo-night&hide_border=true&area=true)](https://github.com/MoonRooter)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+---
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/MoonRooter">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhishek-94026a380/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://tryhackme.com/p/moonrooter">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+</a>
+
+<a href="https://abhishekinmoon.is-a.dev">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💭 Quote
+
+<div align="center">
+
+> **"Hack to Learn. Learn to Secure."**
+
+> **"Security is not a product, it's a mindset."**
+
+</div>
+
+---
+
 
 <picture align="center"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mglsj/mglsj/snake/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mglsj/mglsj/snake/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/mglsj/mglsj/snake/github-snake.svg" /> </picture>
+
+---
+
+<div align="center">
+
+## 🚀 Thanks for visiting!
+
+</div>
