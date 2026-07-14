@@ -17,6 +17,7 @@
 - 💀 Interested in Ethical Hacking
 - 🤖 Exploring AI Security
 - 🔐 Practicing Security Skills on TryHackMe
+- * 📈 **TryHackMe Progress:** [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/MoonRooter)
 <br clear="right"/>
 
 ---
